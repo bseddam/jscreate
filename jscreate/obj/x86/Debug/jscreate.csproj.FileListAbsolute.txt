@@ -1,0 +1,11 @@
+C:\Documents and Settings\user\Рабочий стол\jscreate\jscreate\bin\Debug\jscreate.exe
+C:\Documents and Settings\user\Рабочий стол\jscreate\jscreate\bin\Debug\jscreate.pdb
+C:\Documents and Settings\user\Рабочий стол\jscreate\jscreate\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Рабочий стол\jscreate\jscreate\obj\x86\Debug\javascriptcreate.Form1.resources
+C:\Documents and Settings\user\Рабочий стол\jscreate\jscreate\obj\x86\Debug\jscreate.Properties.Resources.resources
+C:\Documents and Settings\user\Рабочий стол\jscreate\jscreate\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\Рабочий стол\jscreate\jscreate\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\user\Рабочий стол\jscreate\jscreate\obj\x86\Debug\jscreate.exe
+C:\Documents and Settings\user\Рабочий стол\jscreate\jscreate\obj\x86\Debug\jscreate.pdb
+D:\c# desktop proyektim\jscreate\jscreate\obj\x86\Debug\jscreate.exe
+D:\c# desktop proyektim\jscreate\jscreate\obj\x86\Debug\jscreate.pdb
