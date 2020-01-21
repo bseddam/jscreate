@@ -22,7 +22,7 @@ namespace javascriptcreate
         private void javascript_Click(object sender, EventArgs e)
         {
 
-            string root = @"C:\Documents and Settings\user\Рабочий стол\jscreate\poi";
+            string root = @"D:\poi";
 
             if (!Directory.Exists(root))
             {
@@ -70,7 +70,7 @@ FROM         daire as d INNER JOIN
                 {
                     s1 = s1.Substring(0, s1.Length-1);
                 }
-                TextWriter tw = new StreamWriter(@"C:\Documents and Settings\user\Рабочий стол\jscreate\poi\" + dtGruplar.Rows[i]["dsk_n"] + ".js");
+                TextWriter tw = new StreamWriter(@"D:\poi\" + dtGruplar.Rows[i]["dsk_n"] + ".js");
                 tw.WriteLine("{" + '"' + "Number" + '"' + ":" + '"' + dtGruplar.Rows[i]["dsk_n"].ToString() + '"' + ',' +
          System.Environment.NewLine + '"' + "x" + '"' + ":" + '"' + dtGruplar.Rows[i]["ggx"].ToString() + '"'+"," +
          System.Environment.NewLine + '"' + "y" + '"' + ":" + '"' + dtGruplar.Rows[i]["ggy"].ToString() + '"' + "," +

@@ -9,3 +9,12 @@ C:\Documents and Settings\user\Рабочий стол\jscreate\jscreate\obj\x86
 C:\Documents and Settings\user\Рабочий стол\jscreate\jscreate\obj\x86\Debug\jscreate.pdb
 D:\c# desktop proyektim\jscreate\jscreate\obj\x86\Debug\jscreate.exe
 D:\c# desktop proyektim\jscreate\jscreate\obj\x86\Debug\jscreate.pdb
+C:\Users\bsedd\OneDrive\Desktop\jscreate\jscreate\bin\Debug\jscreate.exe
+C:\Users\bsedd\OneDrive\Desktop\jscreate\jscreate\bin\Debug\jscreate.pdb
+C:\Users\bsedd\OneDrive\Desktop\jscreate\jscreate\obj\x86\Debug\jscreate.csprojAssemblyReference.cache
+C:\Users\bsedd\OneDrive\Desktop\jscreate\jscreate\obj\x86\Debug\javascriptcreate.Form1.resources
+C:\Users\bsedd\OneDrive\Desktop\jscreate\jscreate\obj\x86\Debug\jscreate.Properties.Resources.resources
+C:\Users\bsedd\OneDrive\Desktop\jscreate\jscreate\obj\x86\Debug\jscreate.csproj.GenerateResource.cache
+C:\Users\bsedd\OneDrive\Desktop\jscreate\jscreate\obj\x86\Debug\jscreate.csproj.CoreCompileInputs.cache
+C:\Users\bsedd\OneDrive\Desktop\jscreate\jscreate\obj\x86\Debug\jscreate.exe
+C:\Users\bsedd\OneDrive\Desktop\jscreate\jscreate\obj\x86\Debug\jscreate.pdb
